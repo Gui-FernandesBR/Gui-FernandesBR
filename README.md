@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi there, 👋
 
-<!--
-**Gui-FernandesBR/Gui-FernandesBR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+My name is Guilherme Fernandes, I'm a Brazilian developer and I'm currently working
+on different open source projects, mainly two of them: 
+- [**RocketPy**]() : A Python library for rocket trajectory analysis and optimization.
+- [**Last-Mile-Routing-Analyzer**]() : A Python library for the analysis of last mile routing problems in urban areas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+As you may have noticed, I am mostly interest in Python :snake:. 
+However, I am also interested in other topics, such as:
+- :bar_chart: Data Science
+- :earth_americas: Geographic Information Systems (GIS)  
+- :truck: Transportation Engineering 
+
+Rockets are my hobby, so far I could not find someone who disagrees with me when I say that rockets are awesome :rocket:.
+
+# 📫 How to reach me
+- :calling: [LinkedIn](https://www.linkedin.com/in/guifalves/) 
+- :email: [Email](mailto:gf10.alves@gmail.com) 
