@@ -1,4 +1,4 @@
-### Hi there, 👋
+## Hello word, 👋
 
 
 My name is Guilherme Fernandes, I'm a Brazilian developer and I'm currently working
@@ -15,5 +15,5 @@ However, I am also interested in other topics, such as:
 
 Rockets are my hobby, so far I could not find someone who disagrees with me when I say that rockets are awesome :rocket:.
 
-# 📫 How to reach me
+## 📫 How to reach me
 - :calling: [LinkedIn](https://www.linkedin.com/in/guifalves/) or :email: [Email](mailto:gf10.alves@gmail.com) 
