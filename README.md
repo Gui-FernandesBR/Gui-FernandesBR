@@ -1,4 +1,4 @@
-## Hello word, 👋
+## Hello world 👋
 
 
 My name is Guilherme Fernandes, I'm a Brazilian developer and I'm currently working
