@@ -2,7 +2,7 @@
 
 
 My name is Guilherme Fernandes, I'm a Brazilian developer and I'm currently working
-on different open source projects, mainly two of them: 
+on different open source projects, mainly 3 of them: 
 - [**RocketPy**](https://github.com/RocketPy-Team/RocketPy) : A Python library for rocket trajectory analysis and optimization.
 - [**Last-Mile-Routing-Analyzer**](https://github.com/Gui-FernandesBR/Last-Mile-Routing-Analyzer) : A Python library for the analysis of last mile routing problems in urban areas.
 - [**MCDAPy**](https://github.com/Gui-FernandesBR/mcdapy) : Multiple-criteria decision analysis (MCDA) in python
