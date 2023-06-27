@@ -13,7 +13,7 @@ I'm currently working on different open-source projects, mainly 2 of them:
 
 ## 🛸 Here are some of my stats:
 
-![Gui's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gui-FernandesBR&show_icons=true&theme=holi) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gui-FernandesBR&langs_count=3&theme=holi)](https://github.com/anuraghazra/github-readme-stats)
+![Gui's GitHub stats](https://github-readme-stats-git-master-gui-fernandesbr.vercel.app/api?username=Gui-FernandesBR&show_icons=true&theme=holi) [![Top Langs](https://github-readme-stats-git-master-gui-fernandesbr.vercel.app/api/top-langs/?username=Gui-FernandesBR&langs_count=3&theme=holi)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 💡 Skills
 
